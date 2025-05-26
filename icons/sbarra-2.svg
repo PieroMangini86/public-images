@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="220"
+   height="128"
+   viewBox="0 0 220 128"
+   fill="none"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="sbarra-2.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="2.0301699"
+     inkscape:cx="44.577551"
+     inkscape:cy="85.460829"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     d="M220 45.9561V0.664062H0V45.9561H13.1613V114.464H0V127.336H220V114.463H50.8887V45.9561H220ZM130.274 33.084H109.505L130.157 13.5366H150.925L130.274 33.084ZM169.651 13.5362H190.419L169.767 33.0836H148.999L169.651 13.5362ZM90.7801 33.084H70.012L90.6636 13.5366H111.432L90.7801 33.084ZM51.2862 33.084H30.5186L51.1702 13.5366H71.9383L51.2862 33.084ZM188.493 33.084L207.44 15.1497V33.084H188.493ZM32.4444 13.5362L13.4969 31.4705V13.5362H32.4444ZM38.0162 114.463H26.0339V45.9561H38.0166L38.0162 114.463Z"
+     fill="red"
+     id="path1" />
+</svg>
