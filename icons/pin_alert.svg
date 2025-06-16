@@ -37,7 +37,7 @@
        stroke="#1c1c1c"
        stroke-width="2.4361"
        id="path1"
-       data-siow="[{&quot;event&quot;:&quot;s4csvg_alert_fill&quot;,&quot;originator&quot;:&quot;server&quot;,&quot;actions&quot;:[{&quot;target&quot;:&quot;style fill&quot;,&quot;input&quot;:&quot;$.lastValue&quot;,&quot;thresholds&quot;:&quot;#00FFFF 0 yellow 1 orange 2 red 3 #00FF00&quot;}]}]"
+       data-siow="[{&quot;event&quot;:&quot;s4csvg_alert_fill&quot;,&quot;originator&quot;:&quot;server&quot;,&quot;actions&quot;:[{&quot;target&quot;:&quot;style fill&quot;,&quot;input&quot;:&quot;$.lastValue&quot;,&quot;thresholds&quot;:&quot;#00FF00 0 yellow 1 orange 2 red 3 #00FF00&quot;}]}]"
        style="fill:#00ff00" /><!-- Cerchio bianco centrale --><ellipse
        cx="31.366814"
        cy="21.19755"
