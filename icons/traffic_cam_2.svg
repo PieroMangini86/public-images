@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   height="32"
+   width="32"
+   version="1.1"
+   id="Layer_1"
+   viewBox="0 0 512 512"
+   xml:space="preserve"
+   sodipodi:docname="traffic_cam_2.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs6" /><sodipodi:namedview
+   id="namedview6"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:zoom="11.313709"
+   inkscape:cx="6.0546018"
+   inkscape:cy="3.6681164"
+   inkscape:window-width="1920"
+   inkscape:window-height="974"
+   inkscape:window-x="-11"
+   inkscape:window-y="-11"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+<polygon
+   style="fill:#afb9d2"
+   points="220.69,331.174 211.862,287.036 273.655,287.036 264.828,331.174 "
+   id="polygon1"
+   transform="translate(-9.7523809,-76.62585)"
+   stroke-width="12"
+   stroke="black" />
+<path
+   style="fill:#c3cce0"
+   d="m 182.65162,195.59415 -1.724,9.463 c -1.747,9.592 4.614,18.786 14.207,20.532 l 79.136,14.412 c 9.593,1.747 18.786,-4.615 20.533,-14.207 l 1.724,-9.463 z"
+   id="path1"
+   stroke-width="12"
+   stroke="black" />
+<path
+   style="fill:#afb9d2"
+   d="m 457.62093,234.56593 -26.055,-4.745 12.652,-69.478 34.739,6.326 -11.071,60.793 c -0.872,4.797 -5.469,7.977 -10.265,7.104 z"
+   id="path2"
+   stroke="#000000"
+   stroke-width="12" />
+<path
+   style="fill:#d7deed"
+   d="m 416.00662,245.43215 -382.130001,-69.588 c -9.593,-1.747 -15.954,-10.94 -14.207,-20.533 l 14.233,-78.163 416.868001,75.913 -14.233,78.163 c -1.746,9.595 -10.939,15.955 -20.531,14.208 z"
+   id="path3"
+   stroke-width="12"
+   stroke="black" />
+<path
+   style="fill:#eff2fa"
+   d="m 22.861619,39.24715 -6.326,34.739 c -1.747,9.593 4.614,18.786 14.207,20.533 l 107.197001,19.521 c 9.214,1.677 17.383,6.947 22.711,14.648 l 18.872,27.276 c 5.329,7.701 13.498,12.97 22.711,14.648 l 236.393,43.048 c 7.625,1.388 15.265,-2.358 18.835,-9.238 l 43.788,-84.393 c 2.735,-5.272 -0.41,-11.687 -6.254,-12.75 L 43.392619,25.04115 c -9.592,-1.747 -18.785,4.613 -20.531,14.206 z"
+   id="path4"
+   stroke="black"
+   stroke-width="12" />
+<path
+   style="fill:#d7deed"
+   d="m 255.07562,255.53329 h -44.138 c -4.875,0 -8.828,3.953 -8.828,8.828 v 7.47 l 28.90229,224.27002 c 0,0 32.89071,-208.28702 32.89071,-222.91302 v -8.828 c 0,-4.875 -3.952,-8.827 -8.827,-8.827 z"
+   id="path5"
+   sodipodi:nodetypes="sssccsss"
+   stroke-width="12"
+   stroke="black" />
+
+</svg>
