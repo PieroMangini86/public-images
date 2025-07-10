@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   height="48"
+   width="48"
+   version="1.1"
+   id="Layer_1"
+   viewBox="0 -32 64 64"
+   xml:space="preserve"
+   sodipodi:docname="iot.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs8" /><sodipodi:namedview
+   id="namedview8"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:zoom="6.8699927"
+   inkscape:cx="35.225656"
+   inkscape:cy="3.7117944"
+   inkscape:window-width="1920"
+   inkscape:window-height="991"
+   inkscape:window-x="-9"
+   inkscape:window-y="-9"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+
+<path
+   style="fill:#3b3b3b;stroke-width:0.15636"
+   d="m 10.257304,22.937161 c 0,0 20.901883,8.780716 20.949462,8.780716 L 53.819509,22.76186 c -4.974431,-0.05274 -43.562205,0.175301 -43.562205,0.175301 z"
+   id="path3-1"
+   sodipodi:nodetypes="cccc" /><path
+   style="fill:#3b3b3b;stroke-width:0.19871"
+   d="m 31.878184,-25.459906 c -14.355403,0 -25.9946087,3.574321 -25.9946087,7.983491 v 36.318093 c 0,4.409167 11.2423397,6.893313 25.5977437,6.893313 14.355426,0 26.3915,-2.484146 26.3915,-6.893313 V -17.47642 c 0,-4.409158 -11.639208,-7.983486 -25.994635,-7.983486 z"
+   id="path4-5"
+   sodipodi:nodetypes="sssssss" /><path
+   style="fill:#d3d3d3;stroke-width:0.152759"
+   d="m 28.289585,2.007374 c 0,0 1.854341,27.441326 2.793954,27.441326 0.820467,0 20.046547,-7.324241 20.046547,-7.324241 z"
+   id="path2"
+   sodipodi:nodetypes="cscc" />
+<path
+   style="fill:#e5e5e5"
+   d="m 13.186729,22.416762 c 0,0 16.98907,7.020923 17.928682,7.020923 L 31.083479,2.007374 Z"
+   id="path3"
+   sodipodi:nodetypes="cccc" />
+<path
+   style="fill:#e5e5e5;stroke-width:0.186926"
+   d="m 31.768028,-23.843893 c -13.612039,0 -24.648532,3.335753 -24.648532,7.450631 V 17.50077 c 0,4.114876 11.036493,7.450628 24.648532,7.450628 13.61206,0 24.648558,-3.335752 24.648558,-7.450628 v -33.894035 c 0,-4.114869 -11.036498,-7.450628 -24.648558,-7.450628 z"
+   id="path4" />
+
+
+
+
+
+
+
+<g
+   stroke="none"
+   id="g13"
+   transform="matrix(1.5585098,0,0,1.3731978,-31.204624,-89.27865)"><path
+     id="use11"
+     d="m 28.301,57.671002 c 0,-1.523 1.188,-2.748 2.663,-2.748 h 18.971 c 1.475,0 2.663,1.226 2.663,2.748 v 19.58 c 0,1.523 -1.188,2.748 -2.663,2.748 H 30.964 c -1.475,0 -2.663,-1.226 -2.663,-2.748 z"
+     style="opacity:0;fill:#225500" /><path
+     d="m 28.301,55.312 c 0,-1.523 1.188,-2.748 2.663,-2.748 h 18.971 c 1.475,0 2.663,1.226 2.663,2.748 v 19.58 c 0,1.522 -1.188,2.748 -2.663,2.748 H 30.964 c -1.475,0 -2.663,-1.226 -2.663,-2.748 z"
+     fill="#2e73b8"
+     id="path11"
+     style="fill:#000080"
+     data-siow="[{&quot;event&quot;:&quot;s4csvg_alert_fill&quot;,&quot;originator&quot;:&quot;server&quot;,&quot;actions&quot;:[{&quot;target&quot;:&quot;style fill&quot;,&quot;input&quot;:&quot;$.lastValue&quot;,&quot;thresholds&quot;:&quot;#2e73b8 0 #2e73b8 1 #2e73b8&quot;}]}]" /><path
+     d="M 52.598,61.01 H 34.506 c -0.947,0 -1.714,-0.792 -1.714,-1.769 0,-0.977 0.767,-1.769 1.714,-1.769 H 52.597 Z M 46.393,72.735 H 28.301 v -3.539 h 18.092 c 0.947,0 1.714,0.792 1.714,1.769 0,0.977 -0.768,1.769 -1.714,1.769 z"
+     id="path12"
+     style="fill:#e5e5e5" /><path
+     id="use12"
+     d="m 30.381,59.240001 c 0,-2.359 1.84,-4.258 4.126,-4.258 2.286,0 4.126,1.899 4.126,4.258 0,2.359 -1.84,4.258 -4.126,4.258 -2.286,0 -4.126,-1.899 -4.126,-4.258 z"
+     style="fill:#e5e5e5" /><path
+     id="use13"
+     d="m 42.267,70.964999 c 0,-2.359 1.84,-4.258 4.126,-4.258 2.286,0 4.126,1.899 4.126,4.258 0,2.359 -1.84,4.258 -4.126,4.258 -2.286,0 -4.126,-1.899 -4.126,-4.258 z"
+     style="fill:#e5e5e5"
+     inkscape:label="use13" /></g></svg>

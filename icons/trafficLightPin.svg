@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   height="48"
+   width="48"
+   version="1.1"
+   id="Layer_1"
+   viewBox="0 -32 64 64"
+   xml:space="preserve"
+   sodipodi:docname="trafficLightPin.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs8" /><sodipodi:namedview
+   id="namedview8"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:zoom="9.7156368"
+   inkscape:cx="23.776105"
+   inkscape:cy="31.752937"
+   inkscape:window-width="1920"
+   inkscape:window-height="991"
+   inkscape:window-x="-9"
+   inkscape:window-y="-9"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+
+<path
+   style="fill:#d3d3d3;stroke-width:0.152759"
+   d="m 28.701292,3.9407697 c 0,0 1.854341,27.4413263 2.793954,27.4413263 0.820467,0 11.438484,-7.790774 11.438484,-7.790774 z"
+   id="path2"
+   sodipodi:nodetypes="cscc" />
+<path
+   style="fill:#eaeaea;stroke-width:0.152759"
+   d="m 19.560768,23.158501 c 0,0 11.043892,8.272621 11.983504,8.272621 L 31.495186,3.9407697 Z"
+   id="path3"
+   sodipodi:nodetypes="cccc" />
+<path
+   style="fill:#e5e5e5;stroke-width:0.152759"
+   d="m 31.495856,-28.871605 c -7.955496,0 -14.405727,3.811627 -14.405727,8.513532 v 38.729336 c 0,4.701902 6.450231,8.513531 14.405727,8.513531 7.95551,0 14.405741,-3.811629 14.405741,-8.513531 v -38.729339 c 0,-4.701896 -6.450231,-8.513529 -14.405741,-8.513529 z"
+   id="path4" />
+<path
+   style="fill:#3b3b3b;stroke-width:0.152759"
+   d="m 31.495856,-27.344022 c -6.881758,0 -12.461261,3.602807 -12.461261,8.047161 v 36.60706 c 0,4.444349 5.579503,8.047153 12.461261,8.047153 6.881773,0 12.461275,-3.602804 12.461275,-8.047153 v -36.607033 c 0,-4.444365 -5.579502,-8.047185 -12.461275,-8.047188 z"
+   id="path5" />
+<circle
+   style="fill:#ea4949;stroke-width:0.152759"
+   cx="31.495859"
+   cy="-15.963689"
+   r="6.5686126"
+   id="red1"
+   data-siow="[{&quot;event&quot;:&quot;s4csvg_alert_fill&quot;,&quot;originator&quot;:&quot;server&quot;,&quot;actions&quot;:[{&quot;target&quot;:&quot;style fill&quot;,&quot;input&quot;:&quot;$.lastValue&quot;,&quot;thresholds&quot;:&quot;#cccccc 0 #cccccc 1 #cccccc 2 #ea4949 3 #eab42d 4 #cccccc&quot;}]}]" />
+<path
+   style="fill:#f25f5f;display:none:"
+   d="m 274.486,149.71439 c -14.583,-14.58296 -38.228,-14.58296 -52.811,0 -14.584,14.58304 -14.584,38.22806 0,52.8121 14.584,14.58297 67.395,-38.22802 52.811,-52.8121 z"
+   id="red2" />
+<circle
+   style="fill:#2bbf60;stroke-width:0.152759"
+   cx="31.495859"
+   cy="14.664489"
+   r="6.5686126"
+   id="green1"
+   data-siow="[{&quot;event&quot;:&quot;s4csvg_alert_fill&quot;,&quot;originator&quot;:&quot;server&quot;,&quot;actions&quot;:[{&quot;target&quot;:&quot;style fill&quot;,&quot;input&quot;:&quot;$.lastValue&quot;,&quot;thresholds&quot;:&quot;#cccccc 0 #2bbf60 1 #cccccc 2 #cccccc 3 #eab42d 4 #cccccc&quot;}]}]" />
+<circle
+   style="fill:#eab42d;stroke-width:0.152759"
+   cx="31.495859"
+   cy="-0.61143452"
+   r="6.5686126"
+   id="yellow1"
+   data-siow="[{&quot;event&quot;:&quot;s4csvg_alert_fill&quot;,&quot;originator&quot;:&quot;server&quot;,&quot;actions&quot;:[{&quot;target&quot;:&quot;style fill&quot;,&quot;input&quot;:&quot;$.lastValue&quot;,&quot;thresholds&quot;:&quot;#cccccc 0 #cccccc 1 #eab42d 2 #cccccc 3 #eab42d 4 #cccccc&quot;}]}]" />
+<path
+   style="fill:#edcb3b;display:none"
+   d="m 274.486,250.71447 c -14.583,-14.58297 -38.228,-14.58297 -52.811,0 -14.584,14.58299 -14.584,38.22807 0,52.81214 14.584,14.58301 67.395,-38.22801 52.811,-52.81214 z"
+   id="yellow2" />
+<path
+   style="fill:#3cce6c;display:none"
+   d="m 274.486,350.71462 c -14.583,-14.58301 -38.228,-14.58301 -52.811,0 -14.584,14.58302 -14.584,38.22801 0,52.81201 14.584,14.58299 67.395,-38.228 52.811,-52.81201 z"
+   id="green2" />
+</svg>
